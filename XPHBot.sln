@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPHBot", "XPHBot\XPHBot.csproj", "{406FF696-2529-47E5-B69C-FCDEEC0CC44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406FF696-2529-47E5-B69C-FCDEEC0CC44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406FF696-2529-47E5-B69C-FCDEEC0CC44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406FF696-2529-47E5-B69C-FCDEEC0CC44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406FF696-2529-47E5-B69C-FCDEEC0CC44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C985AC4F-2A29-49B7-A2D1-7D24F6880CDA}
+	EndGlobalSection
+EndGlobal
